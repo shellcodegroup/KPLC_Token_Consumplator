@@ -1,0 +1,21 @@
+/* PowerUsageCalculator.css */
+
+.power-usage-calculator {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f5f5f5;
+    border-radius: 4px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .calculator-title {
+    text-align: center;
+    color: #333333;
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  /* Additional styles for other elements in the component */
+  /* ... */
+  
